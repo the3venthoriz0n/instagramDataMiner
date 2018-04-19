@@ -1,4 +1,4 @@
-# instagramDataMine by Andrew Kaplan 4/18
+# instagramDataMiner by Andrew Kaplan 4/18
 # For more information check the below links
 # https://instagram.com/developer/authentication/
 # https://github.com/facebookarchive/python-instagram
